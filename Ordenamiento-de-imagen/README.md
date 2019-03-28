@@ -1,13 +1,17 @@
-Nombre: Tadeo Guillen Diana Guadalupe
-
-
+# Ordenamiento de una Imagen 
+## Algoritmos de ordenamiento
 Esta aplicación permite ordenar una imagen descompuesta pixel por pixel consideranco la aplicación 
 de los algoritmos de ordenamiento:
--Merge Sort
--Quick Sort
--Insertion Sort
--Selection Sort
--Bubble Sort
+
+**-Merge Sort**
+
+**-Quick Sort**
+
+**-Insertion Sort**
+
+**-Selection Sort**
+
+**-Bubble Sort**
 
 
 
@@ -17,17 +21,17 @@ de los algoritmos de ordenamiento:
 
 Desde el directorio 'src':
 
--)  Compilar con:
+### Para compilar:
       javac sort/Main.java
 
--)  Correr con:
+### Para ejecutar:
       java sort.Main <archivo de resource> <velocidad> <algoritmo>
 
     <archivo de resource> = Nombre de archivo de imagen a procesar, debe encontrarse en la carpeta 'resource'
     <velocidad> = Numero de iteraciones que ocurrirán antes de hacer un update a la interfaz grafica
     <algoritmo> = Algoritmo de ordenamiento a utilizar, puede ser 'bubble', 'selection', 'insertion', 'merge', 'quick'
 
-    Por ejemplo:
+Por ejemplo:
       java sort.Main imagen 300 bubble
       java sort.Main imagen 100 quick
 
