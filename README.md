@@ -1,7 +1,11 @@
-# algoritmos-computacionales
+# Algoritmos Computacionales
+
 Contenido concerniente a algoritmos de ordenamiento y búsqueda computacional
 
-Contiene:
+### Contiene:
+
 -Obtencion del conjunto maximal de una gráfica
+
 -Ordenamientos
+
 -Búsquedas
