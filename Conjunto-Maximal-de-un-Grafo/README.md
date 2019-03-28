@@ -1,7 +1,6 @@
-Alumna: Tadeo Guillen Diana
-Numero de Cuenta: 312028217
+# Programa para obtener el conjunto maximal de un Grafo
 
-Para correr el programa:
+### Para ejecutar el programa:
 
 1.- Para compilar el programa se necesitarán dos archivos necesarios para usar la biblioteca
 GraphStream. Como los archivos necesraios son ".jar" no se pueden enviar por correo, ein embargo 
@@ -16,11 +15,11 @@ clase principal "Maximal.java"
 
 2.-Para compilar "Maximal.java" es necesario copiar y pegar el siguiente comando en la terminal:
 
-	javac -cp .:gs-algo-1.3.jar:gs-core-1.3.jar Maximal.java
+	> javac -cp .:gs-algo-1.3.jar:gs-core-1.3.jar Maximal.java
 
 3.-Para ejecutar "Maximal.java" es necesario copiar y pegar el siguiente comando en la terminal:
 
-	java -cp .:gs-algo-1.3.jar:gs-core-1.3.jar Maximal
+	> java -cp .:gs-algo-1.3.jar:gs-core-1.3.jar Maximal
 
 4.-Una vez se ejecute se mostrarpa la instrucción para introducir el nombre:
 
